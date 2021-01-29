@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MisFragmentos</string>
+    <string name="btnAyuda">Ayuda</string>
+    <string name="btnAcerca">Acerca de ...</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="msgAcerca">Fragmento Acerca de</string>
+    <string name="msgAyuda">Fragmento Ayuda</string>
+</resources>
